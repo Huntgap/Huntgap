@@ -21,7 +21,7 @@ a private key, or an upfront payment never reaches the board.
 ## Featured project
 
 <p align="center">
-  <a href="https://github.com/Huntgap/huntgap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Huntgap&repo=huntgap&bg_color=070b16&title_color=ff3d7f&icon_color=ff3d7f&text_color=9aa7c7&border_color=1c2745" alt="Huntgap/huntgap"></a>
+  <a href="https://github.com/Huntgap/huntgap-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Huntgap&repo=huntgap-platform&bg_color=070b16&title_color=ff3d7f&icon_color=ff3d7f&text_color=9aa7c7&border_color=1c2745" alt="Huntgap/huntgap-platform"></a>
 </p>
 
 ## Tech stack
